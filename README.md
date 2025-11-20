@@ -71,8 +71,6 @@ This repository documents my personal **Cybersecurity Learning Lab**, built enti
 ### 👤 Author
 
 **Crispus Omollo**  
-💼 Cybersecurity Technician | System Administrator | IT Innovator  
+💼 Cybersecurity Technician | System Administrator 
 🔗 [LinkedIn Profile](https://linkedin.com/in/crispusomollo)  
-📧 crispusomollo@gmail.com
-
 
